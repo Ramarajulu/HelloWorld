@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5CA4-2CD4
+
+ Directory of C:\Users\Ramarajulu.M\Desktop\Softwares\Jenkins+Git
+
+06/29/2017  02:20 PM    <DIR>          .
+06/29/2017  02:20 PM    <DIR>          ..
+06/29/2017  02:20 PM                 0 emailtest.txt
+06/29/2017  11:36 AM               417 Hello.class
+06/28/2017  02:57 PM               122 Hello.java
+06/29/2017  11:51 AM               479 readme.txt
+               4 File(s)          1,018 bytes
+               2 Dir(s)  27,708,981,248 bytes free
